@@ -28,14 +28,14 @@ public class MainClass extends JavaPlugin
 
     public void onDisable()
     {
-        Bukkit.getConsoleSender().sendMessage("2[\247aHitDelayWithBuff\2472] \2477HitDelayWithBuff 1.2 \uBE44\uD65C\uC131\uD654 \uB418\uC5C8\uC5B4\uC694.");
+        Bukkit.getConsoleSender().sendMessage("2[\247aHitDelayWithBuff\2472] \2477HitDelayWithBuff 1.3 \uBE44\uD65C\uC131\uD654 \uB418\uC5C8\uC5B4\uC694.");
         System.out.println("Made by MINUTE.");
     }
 
     public void onEnable()
     {
         initCommand();
-        Bukkit.getConsoleSender().sendMessage("\2472[\247aHitDelayWithBuff\2472] \2477HitDelayWithBuff 1.2 \uD65C\uC131\uD654 \uB418\uC5C8\uC5B4\uC694.");
+        Bukkit.getConsoleSender().sendMessage("\2472[\247aHitDelayWithBuff\2472] \2477HitDelayWithBuff 1.3 \uD65C\uC131\uD654 \uB418\uC5C8\uC5B4\uC694.");
         Bukkit.getConsoleSender().sendMessage("\2477Made by MINUTE.");
         getServer().getPluginManager().registerEvents(this, this);
     }

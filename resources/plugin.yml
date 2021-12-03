@@ -1,0 +1,7 @@
+name: HitDelayWithBuff
+main: com.HitDelayWithBuff.MainClass
+version: 1.3
+api-version: 1.17
+commands:
+  hitdelay:
+    description: HitDelayWithBuff Command (Made by MINUTE.)

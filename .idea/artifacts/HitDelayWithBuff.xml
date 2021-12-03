@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="HitDelayWithBuff">
+    <output-path>$PROJECT_DIR$/../api/plugins</output-path>
+    <root id="archive" name="HitDelayWithBuff.jar">
+      <element id="dir-copy" path="$PROJECT_DIR$/resources" />
+      <element id="module-output" name="HitDelayWithBuff" />
+    </root>
+  </artifact>
+</component>
